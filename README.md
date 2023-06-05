@@ -1,1 +1,2 @@
-# struk2
+# simple_struk2
+# develop for more
